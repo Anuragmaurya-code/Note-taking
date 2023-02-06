@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anuragmaurya-code/Note-taking/static/css/main.6491de54.css",
+    "main.js": "/Anuragmaurya-code/Note-taking/static/js/main.d4974136.js",
+    "index.html": "/Anuragmaurya-code/Note-taking/index.html",
+    "main.6491de54.css.map": "/Anuragmaurya-code/Note-taking/static/css/main.6491de54.css.map",
+    "main.d4974136.js.map": "/Anuragmaurya-code/Note-taking/static/js/main.d4974136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6491de54.css",
+    "static/js/main.d4974136.js"
+  ]
+}
